@@ -1,6 +1,6 @@
 In 2001, Ray Bradbury [gave a speech at](http://www.youtube.com/watch?v=_W-r7ABrMYU) (video starts around 11:00) the University of California where he encouraged young writers to read three things every night:
 
-1. One short story ([Dahl](http://en.wikipedia.org/wiki/Roald_Dahl), [Hemingway](http://en.wikipedia.org/wiki/Hemingway), [Matheson](http://en.wikipedia.org/wiki/Richard_Matheson), [Cheever](http://en.wikipedia.org/wiki/John_Cheever), [Kneale](http://en.wikipedia.org/wiki/Nigel_Kneale), [Collier](http://en.wikipedia.org/wiki/John_Collier_(writer)), [Warton](http://en.wikipedia.org/wiki/Edith_Wharton), [Irving](http://en.wikipedia.org/wiki/Washington_Irving))
+1. One short story ([Dahl](http://en.wikipedia.org/wiki/Roald_Dahl), [Hemingway](http://en.wikipedia.org/wiki/Hemingway), [Matheson](http://en.wikipedia.org/wiki/Richard_Matheson), [Cheever](http://en.wikipedia.org/wiki/John_Cheever), [Kneale](http://en.wikipedia.org/wiki/Nigel_Kneale), [Collier](http://en.wikipedia.org/wiki/John_Collier_%28writer%29), [Warton](http://en.wikipedia.org/wiki/Edith_Wharton), [Irving](http://en.wikipedia.org/wiki/Washington_Irving))
 2. One poem ([Shakespeare](http://en.wikipedia.org/wiki/William_Shakespeare), [Frost](http://en.wikipedia.org/wiki/Robert_Frost), [Pope](http://en.wikipedia.org/wiki/Alexander_Pope))
 3. One essay ([Huxley](http://en.wikipedia.org/wiki/Aldus_Huxley), [Eiseley](http://en.wikipedia.org/wiki/Loren_Eiseley))
 

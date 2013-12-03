@@ -11,6 +11,9 @@ Start with [Dahl](http://en.wikipedia.org/wiki/Roald_Dahl), [Hemingway](http://e
 - "Man From the South" [link](http://www.classicshorts.com/stories/south.html)
 - "Lamb to Slaughter" [link](http://www.classicshorts.com/stories/lamb.html)
 
+### 6-Word Science Fiction
+- http://www.wired.com/wired/archive/14.11/sixwords.html
+
 ## Poems
 Start with [Shakespeare](http://en.wikipedia.org/wiki/William_Shakespeare), [Frost](http://en.wikipedia.org/wiki/Robert_Frost), and [Pope](http://en.wikipedia.org/wiki/Alexander_Pope).
 

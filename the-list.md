@@ -20,6 +20,11 @@ Start with [Shakespeare](http://en.wikipedia.org/wiki/William_Shakespeare), [Fro
 - "A Madrigal" [link](http://www.poemhunter.com/poem/a-madrigal-2/)
 - "Aubade" [link](http://www.poemhunter.com/poem/aubade-2/)
 
+#### [W.H. Auden](http://en.wikipedia.org/wiki/W._H._Auden)
+- "The Unknown Citizen" [link](http://poetry.rapgenius.com/W-h-auden-the-unknown-citizen-lyrics)
+- "The Shield of Achilles" [link](http://www.poets.org/viewmedia.php/prmMID/15547)
+- "Epitaph on a Tyrant" [link](http://poetry.rapgenius.com/W-h-auden-epitaph-on-a-tyrant-lyrics)
+
 ## Essays
 Start with [Huxley](http://en.wikipedia.org/wiki/Aldus_Huxley) and [Eiseley](http://en.wikipedia.org/wiki/Loren_Eiseley).
 
